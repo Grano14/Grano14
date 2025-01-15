@@ -12,31 +12,22 @@
 
 Se il codice non applica lo spazio tra le icone, prova un metodo più affidabile utilizzando table oppure flexbox con div.
 
-✅ Metodo 1: Usare table per organizzare le icone con spaziatura
-html
-Copia codice
-<h3 align="left">Languages and Tools:</h3>
-<table border="0">
+<table>
   <tr>
     <td align="center">
       <a href="https://getbootstrap.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
       </a>
     </td>
-    <td width="20"></td>
+    <td width="20"></td> <!-- Spazio tra le icone -->
     <td align="center">
       <a href="https://www.cprogramming.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
     </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-    </td>
   </tr>
 </table>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
