@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Grano14&show_icons=true&theme=tokyonight)
+
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Grano14&layout=compact&theme=tokyonight)
+
+
 <!--
 **Grano14/Grano14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
