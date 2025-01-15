@@ -16,7 +16,7 @@ Se il codice non applica lo spazio tra le icone, prova un metodo più affidabile
 html
 Copia codice
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <a href="https://getbootstrap.com">
