@@ -10,7 +10,7 @@
 <h3 align="center">developer</h3>
 
 - 💻 I'm currently studying Cybersecurity at Unisa
-- 🔭 I’m currently working on BlockChain and AI [llllllllllllllllll](llllllllllllllllll)
+- 🔭 I’m currently working on BlockChain and AI 
 
 
 <h3 align="left">Languages and Tools:</h3>
