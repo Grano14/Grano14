@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=Grano14&show_icons=true&theme=tokyonight)
+![Statistiche GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grano14&theme=tokyonight&count_private=true&inlcude_all_commits=true) 
 
 ![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=Grano14&layout=compact&theme=tokyonight)
 
 
-![Statistiche GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Grano14&theme=tokyonight&count_private=true&inlcude_all_commits=true) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Grano14&theme=dracula&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grano14&langs_count=10&count_private=true&show_icons=true&theme=dracula&layout=compact&include_all_commits=true)
 
 <h1 align="center">Hi 👋, I'm Grano14</h1>
 <h3 align="center">developer</h3>
